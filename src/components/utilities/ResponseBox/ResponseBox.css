@@ -1,0 +1,25 @@
+@font-face {
+    font-family: malithi;
+    src: url("./../../../fonts/un-malithi.otf");
+}
+
+.response-text {
+    font-family: Open Sans, sans-serif, malithi;
+    font-weight: 100;
+    /* background: rgb(252, 250, 245); */
+}
+
+
+@keyframes onload {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  .onload-transition {
+    animation: 2s ease-out 0s 1 onload;
+  }
+  
