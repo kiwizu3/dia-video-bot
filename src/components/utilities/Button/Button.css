@@ -1,0 +1,24 @@
+.btn-diabot {
+    color: #fff;
+    background-color: #EF005A;
+    border-color: #EF005A;
+    border-radius: 1rem;
+}
+.btn-diabot:hover {
+    color: #fff;
+    background-color: #f30b64;
+    border-color: #EF005A;
+}
+
+.btn-diabot:active {
+    color: #fff;
+    background-color: #f30b64;
+    border-color: #EF005A;
+}
+
+.btn-diabot:focus {
+    color: #fff;
+    background-color: #f30b64;
+    border-color: #EF005A;
+    box-shadow: 0 0 0 0rem rgb(0 0 0 / 0%);
+}
