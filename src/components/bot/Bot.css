@@ -1,0 +1,12 @@
+.close-btn {
+    height: 1.5rem;
+    width: 1.5rem;
+    padding-bottom: 0.2rem;
+    position: absolute;
+    /* top: 3rem;
+    right: 4rem; */
+    top: 5rem;
+    right: 5rem;
+    font-size: 12px;
+    opacity: 0;
+}

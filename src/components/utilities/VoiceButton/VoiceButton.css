@@ -37,6 +37,10 @@
     border-radius: 10rem;
 }
 
+.active-bg{
+    background-color: #fb5e6b10 !important;
+}
+
 @keyframes circular-movement-inner {
     0% {
         width: 8rem;
